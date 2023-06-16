@@ -1,1 +1,2 @@
 # AutoCorrect-feature
+Autocorrect Feature utilizes algorithms to detect and correct common spelling mistakes, ensuring that your text is polished and error-free. We check whether the entered word has correct spelling or not. If its not, then we suggest the appropriate word it can be by calculating the probability and similarity between then entered word and words in dictionary and printing the words that are most probable and similar.
